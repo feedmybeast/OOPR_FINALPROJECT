@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\guest_forms\\guestinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\guestinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\guest_forms\\guestinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\guestinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\startup_forms\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\startup_forms\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\guest_forms\\guestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\guestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\manager_forms\\managerreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\manager_forms\\managerreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\guest_forms\\guestbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\guestbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\manager_forms\\managerroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\manager_forms\\managerroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\receptionist_forms\\receptionistcheckoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\receptionist_forms\\receptionistcheckoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\receptionist_forms\\receptionistcheckinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\receptionist_forms\\receptionistcheckinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\guest_forms\\guestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\guestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\guest_forms\\roomavailableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\roomavailableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\startup_forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\startup_forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\oopr_finalproject\\startup_forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\startup_forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\guest_forms\\roomavailableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\guest_forms\\roomavailableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|c:\\users\\admin\\documents\\future\\oopr\\oopr_realfinalproject\\oopr_finalproject\\oopr_finalproject\\oopr_finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1117695C-0B25-4C8D-86F7-CC91FAF3F4FD}|OOPR_FinalProject\\OOPR_FinalProject.csproj|solutionrelative:oopr_finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Room.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Room.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Room.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:14:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:13:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receptionist.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Receptionist.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Receptionist.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Receptionist.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Receptionist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:13:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Manager.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Manager.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Manager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:12:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SplashForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\StartUp_Forms\\SplashForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\StartUp_Forms\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\StartUp_Forms\\SplashForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\StartUp_Forms\\SplashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:22:26.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Person.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Person.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:21:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuestInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\GuestInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:22:27.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Manager_Forms\\ManagerReportForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Manager_Forms\\ManagerReportForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Manager_Forms\\ManagerReportForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Manager_Forms\\ManagerReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:27:00.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\GuestForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\GuestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:48:05.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:43:18.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GuestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\GuestForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestForm.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\GuestForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:51:02.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomAvailableForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:21:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Program.cs",
+              "RelativeToolTip": "OOPR_FinalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:04:31.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerRoomForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Manager_Forms\\ManagerRoomForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Manager_Forms\\ManagerRoomForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Manager_Forms\\ManagerRoomForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Manager_Forms\\ManagerRoomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:18:19.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuestBookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestBookingForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\GuestBookingForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\GuestBookingForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\GuestBookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:07:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceptionistCheckOutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckOutForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckOutForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckOutForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckOutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:15:13.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceptionistCheckInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckInForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckInForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckInForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Receptionist_Forms\\ReceptionistCheckInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:13:25.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\StartUp_Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:42:43.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomAvailableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs",
+              "RelativeDocumentMoniker": "OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\FUTURE\\OOPR\\OOPR_RealFinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs [Design]",
+              "RelativeToolTip": "OOPR_FinalProject\\Guest_Forms\\RoomAvailableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:44:16.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
